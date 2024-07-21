@@ -1,4 +1,4 @@
 # myk
-Android app for my IoT project (Major project BCA Final Year)
+MyK : IoT- ENABLED REALTIME LPG GAS LEAKAGE DETECTION SYSTEM.
 
  
